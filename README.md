@@ -11,3 +11,6 @@
 5. Graph can be implemented by
 (i) Adjacency matrix
 (ii) Adjacency list
+
+6. Topological Sort is an linear ordering of vertices such that if there is an edge between u->v i.e u appears before v in that ordering.
+  Directed Acyclic Graph ( DAG ) is must for topological sorting.
